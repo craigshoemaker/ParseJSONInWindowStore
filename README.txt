@@ -1,0 +1,1 @@
+This is a sample application to accompany my MSDN article 'Parse JSON Strings in Windows Runtime Components' which demonstrates how to use WinRT classes to parse JSON objects and arrays and hydrate strongly typed domain models.
